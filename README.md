@@ -2,4 +2,8 @@
 
 ## lesson 1
 
-![Alt text](Opdracht1.gif)sss
+![Opdracht1.gif](https://github.com/Entropire/Prog/blob/main/GIfs/Opdracht1.gif)
+
+## lesson 2
+
+![Opdracht2.gif](https://github.com/Entropire/Prog/blob/main/GIfs/Opdracht2.gif)

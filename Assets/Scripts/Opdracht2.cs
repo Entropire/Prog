@@ -1,18 +1,8 @@
-using System.Collections;
-using System.Collections.Generic;
-using Unity.VisualScripting;
 using UnityEngine;
 
 public class Opdracht2 : MonoBehaviour
 {
     public GameObject prefab;
-
-    public Material Material;
-
-    private void Start()
-    {
-        Material = GetComponent<MeshRenderer>().material;
-    }
 
     void Update()
     {

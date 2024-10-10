@@ -50,4 +50,11 @@
 ---
 
 ## Opdracht-8
-[Code](https://github.com/Entropire/Prog/blob/main/Assets/Opdracht%208)
+
+### Inheritance
+- [Parent](https://github.com/Entropire/FistMonoGame/blob/main/MyFirstGame/Objects/Gui/Menu.cs)
+- [Child](https://github.com/Entropire/FistMonoGame/blob/main/MyFirstGame/Menus/MainMenu.cs)
+  
+### Abstract inheritance
+- [Parent](https://github.com/Entropire/FistMonoGame/blob/main/MyFirstGame/Objects/Gui/MenuItem.cs)
+- [Child](https://github.com/Entropire/FistMonoGame/blob/main/MyFirstGame/Objects/Gui/Button.cs)

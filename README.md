@@ -28,4 +28,4 @@
 ![Opdracht4.gif](https://github.com/Entropire/Prog/blob/main/Assets/Opdracht%204/Opdracht4.gif)
 
 ## Opdracht-5
-[Code](https://github.com/Entropire/Prog/blob/main/Assets/Opdracht%205/Opdracht5.gif)
+[Code](https://github.com/Entropire/Prog/blob/main/Assets/Opdracht%205/Bugs.md)

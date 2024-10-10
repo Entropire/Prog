@@ -5,6 +5,7 @@
 - [Opdracht 2](#Opdracht-2)
 - [Opdracht 3](#Opdracht-3)
 - [Opdracht 4](#Opdracht-4)
+- [Opdracht 5](#Opdracht-5)
 
 ## Opdracht-1
 [Scripts](https://github.com/Entropire/Prog/tree/main/Assets/Scripts/Opdracht1)
@@ -24,4 +25,9 @@
 ## Opdracht-4
 [Scripts](https://github.com/Entropire/Prog/tree/main/Assets/Scripts/Opdracht4)
 
-![Opdracht3.gif](https://github.com/Entropire/Prog/blob/main/GIfs/Opdracht4.gif)
+![Opdracht4.gif](https://github.com/Entropire/Prog/blob/main/GIfs/Opdracht4.gif)
+
+## Opdracht-5
+[Scripts](https://github.com/Entropire/Prog/tree/main/Assets/Scripts/Opdracht4)
+
+![Opdracht5.gif](https://github.com/Entropire/Prog/blob/main/GIfs/Opdracht4.gif)

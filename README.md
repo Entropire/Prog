@@ -8,26 +8,24 @@
 - [Opdracht 5](#Opdracht-5)
 
 ## Opdracht-1
-[Code]([[https://github.com/Entropire/Prog/tree/main/Assets/Scripts/Opdracht1](https://github.com/Entropire/Prog/tree/main/Assets/Opdracht%201/Scripts)](https://github.com/Entropire/Prog/tree/main/Assets/Opdracht%201))
+[Code](https://github.com/Entropire/Prog/tree/main/Assets/Opdracht%201)
 
-![Opdracht1.gif]([https://github.com/Entropire/Prog/blob/main/GIfs/Opdracht1.gif](https://github.com/Entropire/Prog/blob/main/Assets/Opdracht%201/Opdracht1.gif))
+![Opdracht1.gif](https://github.com/Entropire/Prog/blob/main/Assets/Opdracht%201/Opdracht1.gif)
 
 ## Opdracht-2
-[Scripts](https://github.com/Entropire/Prog/tree/main/Assets/Scripts/Opdracht2 )
+[Code](https://github.com/Entropire/Prog/blob/main/Assets/Opdracht%202)
 
-![Opdracht2.gif](https://github.com/Entropire/Prog/blob/main/GIfs/Opdracht2.gif)
+![Opdracht2.gif](https://github.com/Entropire/Prog/blob/main/Assets/Opdracht%202/Opdracht2.gif)
 
 ## Opdracht-3
-[Scripts](https://github.com/Entropire/Prog/tree/main/Assets/Scripts/Opdracht3)
+[Code](https://github.com/Entropire/Prog/blob/main/Assets/Opdracht%203)
 
-![Opdracht3.gif](https://github.com/Entropire/Prog/blob/main/GIfs/Opdracht3.gif)
+![Opdracht3.gif](https://github.com/Entropire/Prog/blob/main/Assets/Opdracht%203/Opdracht3.gif)
 
 ## Opdracht-4
-[Scripts](https://github.com/Entropire/Prog/tree/main/Assets/Scripts/Opdracht4)
+[Code](https://github.com/Entropire/Prog/blob/main/Assets/Opdracht%204)
 
-![Opdracht4.gif](https://github.com/Entropire/Prog/blob/main/GIfs/Opdracht4.gif)
+![Opdracht4.gif](https://github.com/Entropire/Prog/blob/main/Assets/Opdracht%204/Opdracht4.gif)
 
 ## Opdracht-5
-[Scripts](https://github.com/Entropire/Prog/tree/main/Assets/Scripts/Opdracht4)
-
-![Opdracht5.gif](https://github.com/Entropire/Prog/blob/main/GIfs/Opdracht4.gif)
+[Code](https://github.com/Entropire/Prog/blob/main/Assets/Opdracht%205/Opdracht5.gif)

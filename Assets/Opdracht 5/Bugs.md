@@ -4,7 +4,7 @@
 
 1. [Tower misplacement](#bug-1-tower-misplacement)
 2. [Button overlap click trigger](#bug-2-button-overlap-click-trigger)
-
+2. [null](#bug-3) - **Inprogress**
 ## Bug 1: Tower Misplacement.
 
 ### Description

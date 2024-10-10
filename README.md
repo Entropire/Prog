@@ -8,9 +8,9 @@
 - [Opdracht 5](#Opdracht-5)
 
 ## Opdracht-1
-[Scripts](https://github.com/Entropire/Prog/tree/main/Assets/Scripts/Opdracht1)
+[Code]([[https://github.com/Entropire/Prog/tree/main/Assets/Scripts/Opdracht1](https://github.com/Entropire/Prog/tree/main/Assets/Opdracht%201/Scripts)](https://github.com/Entropire/Prog/tree/main/Assets/Opdracht%201))
 
-![Opdracht1.gif](https://github.com/Entropire/Prog/blob/main/GIfs/Opdracht1.gif)
+![Opdracht1.gif]([https://github.com/Entropire/Prog/blob/main/GIfs/Opdracht1.gif](https://github.com/Entropire/Prog/blob/main/Assets/Opdracht%201/Opdracht1.gif))
 
 ## Opdracht-2
 [Scripts](https://github.com/Entropire/Prog/tree/main/Assets/Scripts/Opdracht2 )

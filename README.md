@@ -47,6 +47,8 @@
 ## Opdracht-6-7
 [Code](https://github.com/Entropire/Opdracht-6-SRP/tree/main/Assets/Scripts)
 
+![Opdracht6-7.gif](https://github.com/Entropire/Prog/blob/main/Assets/Opdracht6-7/Opdracht6-7.gif)
+
 ---
 
 ## Opdracht-8

@@ -6,28 +6,55 @@
 - [Opdracht 3](#Opdracht-3)
 - [Opdracht 4](#Opdracht-4)
 - [Opdracht 5](#Opdracht-5)
+- [Opdracht 6-7](#Opdracht-6-7)
+- [Opdracht 8](#Opdracht-8)
+
+---
 
 ## Opdracht-1
-[Scripts](https://github.com/Entropire/Prog/tree/main/Assets/Scripts/Opdracht1)
+[Code](https://github.com/Entropire/Prog/tree/main/Assets/Opdracht%201)
 
-![Opdracht1.gif](https://github.com/Entropire/Prog/blob/main/GIfs/Opdracht1.gif)
+![Opdracht1.gif](https://github.com/Entropire/Prog/blob/main/Assets/Opdracht%201/Opdracht1.gif)
+
+---
 
 ## Opdracht-2
-[Scripts](https://github.com/Entropire/Prog/tree/main/Assets/Scripts/Opdracht2 )
+[Code](https://github.com/Entropire/Prog/blob/main/Assets/Opdracht%202)
 
-![Opdracht2.gif](https://github.com/Entropire/Prog/blob/main/GIfs/Opdracht2.gif)
+![Opdracht2.gif](https://github.com/Entropire/Prog/blob/main/Assets/Opdracht%202/Opdracht2.gif)
+
+---
 
 ## Opdracht-3
-[Scripts](https://github.com/Entropire/Prog/tree/main/Assets/Scripts/Opdracht3)
+[Code](https://github.com/Entropire/Prog/blob/main/Assets/Opdracht%203)
 
-![Opdracht3.gif](https://github.com/Entropire/Prog/blob/main/GIfs/Opdracht3.gif)
+![Opdracht3.gif](https://github.com/Entropire/Prog/blob/main/Assets/Opdracht%203/Opdracht3.gif)
+
+---
 
 ## Opdracht-4
-[Scripts](https://github.com/Entropire/Prog/tree/main/Assets/Scripts/Opdracht4)
+[Code](https://github.com/Entropire/Prog/blob/main/Assets/Opdracht%204)
 
-![Opdracht4.gif](https://github.com/Entropire/Prog/blob/main/GIfs/Opdracht4.gif)
+![Opdracht4.gif](https://github.com/Entropire/Prog/blob/main/Assets/Opdracht%204/Opdracht4.gif)
+
+---
 
 ## Opdracht-5
-[Scripts](https://github.com/Entropire/Prog/tree/main/Assets/Scripts/Opdracht4)
+[Code](https://github.com/Entropire/Prog/blob/main/Assets/Opdracht%205/Bugs.md)
 
-![Opdracht5.gif](https://github.com/Entropire/Prog/blob/main/GIfs/Opdracht4.gif)
+---
+
+## Opdracht-6-7
+[Code](https://github.com/Entropire/Opdracht-6-SRP/tree/main/Assets/Scripts)
+
+---
+
+## Opdracht-8
+
+### Inheritance
+- [Parent](https://github.com/Entropire/FistMonoGame/blob/main/MyFirstGame/Objects/Gui/Menu.cs)
+- [Child](https://github.com/Entropire/FistMonoGame/blob/main/MyFirstGame/Menus/MainMenu.cs)
+  
+### Abstract inheritance
+- [Parent](https://github.com/Entropire/FistMonoGame/blob/main/MyFirstGame/Objects/Gui/MenuItem.cs)
+- [Child](https://github.com/Entropire/FistMonoGame/blob/main/MyFirstGame/Objects/Gui/Button.cs)

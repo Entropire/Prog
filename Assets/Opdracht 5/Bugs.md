@@ -4,8 +4,13 @@
 
 1. [Tower misplacement](#bug-1-tower-misplacement)
 2. [Button overlap click trigger](#bug-2-button-overlap-click-trigger)
+3. [null](#bug-3) - **Inprogress**
 
+---
+   
 ## Bug 1: Tower Misplacement.
+
+![Gif](https://github.com/Entropire/Prog/blob/main/Assets/Opdracht%205/Bug1.gif)
 
 ### Description
 
@@ -85,6 +90,8 @@ There are 2 solutions to this problem.
 
 ## Bug 2: Button overlap click trigger.
 
+![Gif](https://github.com/Entropire/Prog/blob/main/Assets/Opdracht%205/Bug2.gif)
+
 ### Description
 
 When pressing a button to go to a menu and holding down the mouse button it also presses the button in the new menu if
@@ -137,6 +144,8 @@ event that calls the OnClick function that checks if the mouse is inside the but
 ---
 
 ## Bug 3:
+
+![Gif](https://github.com/Entropire/Prog/blob/main/Assets/Opdracht%205/Bug3.gif)
 
 ### Description
 

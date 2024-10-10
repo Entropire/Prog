@@ -6,6 +6,7 @@
 - [Opdracht 3](#Opdracht-3)
 - [Opdracht 4](#Opdracht-4)
 - [Opdracht 5](#Opdracht-5)
+- [Opdracht 6-7](#Opdracht-6-7)
 
 ## Opdracht-1
 [Code](https://github.com/Entropire/Prog/tree/main/Assets/Opdracht%201)
@@ -29,3 +30,6 @@
 
 ## Opdracht-5
 [Code](https://github.com/Entropire/Prog/blob/main/Assets/Opdracht%205/Bugs.md)
+
+## Opdracht-6-7
+[Code](https://github.com/Entropire/Opdracht-6-SRP/tree/main/Assets/Scripts)

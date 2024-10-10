@@ -26,9 +26,9 @@ public class Opdracht3 : MonoBehaviour
         }
     }
 
-    private void SpawnEnemies(int amout)
+    private void SpawnEnemies(int amount)
     {
-        for (int i = 0; i < amout; i++)
+        for (int i = 0; i > amount; i++)
         {
             GameObject newEnemy = Instantiate(enemyPrefab, transform.position, Quaternion.identity);
             enemies.Add(newEnemy);

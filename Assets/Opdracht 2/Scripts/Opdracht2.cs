@@ -1,8 +1,10 @@
 using UnityEngine;
+using Random = UnityEngine.Random;
 
 public class Opdracht2 : MonoBehaviour
 {
     public GameObject prefab;
+    
 
     void Update()
     {
